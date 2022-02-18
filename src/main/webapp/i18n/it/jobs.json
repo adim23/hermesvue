@@ -1,0 +1,26 @@
+{
+  "hermesvueApp": {
+    "jobs": {
+      "home": {
+        "title": "Jobs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Jobs",
+        "createOrEditLabel": "Genera o modifica un Jobs",
+        "search": "Cerca Jobs",
+        "notFound": "No Jobs found"
+      },
+      "created": "&Egrave; stato generato un nuovo Jobs con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Jobs identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Jobs con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Jobs {{ id }}?"
+      },
+      "detail": {
+        "title": "Jobs"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description"
+    }
+  }
+}

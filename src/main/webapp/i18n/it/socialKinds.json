@@ -1,0 +1,27 @@
+{
+  "hermesvueApp": {
+    "socialKinds": {
+      "home": {
+        "title": "SocialKinds",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Social Kinds",
+        "createOrEditLabel": "Genera o modifica un Social Kinds",
+        "search": "Cerca Social Kinds",
+        "notFound": "No Social Kinds found"
+      },
+      "created": "&Egrave; stato generato un nuovo Social Kinds con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Social Kinds identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Social Kinds con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Social Kinds {{ id }}?"
+      },
+      "detail": {
+        "title": "Social Kinds"
+      },
+      "id": "ID",
+      "code": "Code",
+      "name": "Name",
+      "call": "Call"
+    }
+  }
+}

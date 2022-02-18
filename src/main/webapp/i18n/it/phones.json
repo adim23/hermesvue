@@ -1,0 +1,30 @@
+{
+  "hermesvueApp": {
+    "phones": {
+      "home": {
+        "title": "Phones",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Phones",
+        "createOrEditLabel": "Genera o modifica un Phones",
+        "search": "Cerca Phones",
+        "notFound": "No Phones found"
+      },
+      "created": "&Egrave; stato generato un nuovo Phones con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Phones identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Phones con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Phones {{ id }}?"
+      },
+      "detail": {
+        "title": "Phones"
+      },
+      "id": "ID",
+      "phone": "Phone",
+      "description": "Description",
+      "favourite": "Favourite",
+      "kind": "Kind",
+      "company": "Company",
+      "citizen": "Citizen"
+    }
+  }
+}

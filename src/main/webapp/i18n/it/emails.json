@@ -1,0 +1,29 @@
+{
+  "hermesvueApp": {
+    "emails": {
+      "home": {
+        "title": "Emails",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Emails",
+        "createOrEditLabel": "Genera o modifica un Emails",
+        "search": "Cerca Emails",
+        "notFound": "No Emails found"
+      },
+      "created": "&Egrave; stato generato un nuovo Emails con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Emails identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Emails con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Emails {{ id }}?"
+      },
+      "detail": {
+        "title": "Emails"
+      },
+      "id": "ID",
+      "email": "Email",
+      "description": "Description",
+      "favourite": "Favourite",
+      "kind": "Kind",
+      "citizen": "Citizen"
+    }
+  }
+}

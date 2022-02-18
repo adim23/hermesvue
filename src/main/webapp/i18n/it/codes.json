@@ -1,0 +1,25 @@
+{
+  "hermesvueApp": {
+    "codes": {
+      "home": {
+        "title": "Codes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Codes",
+        "createOrEditLabel": "Genera o modifica un Codes",
+        "search": "Cerca Codes",
+        "notFound": "No Codes found"
+      },
+      "created": "&Egrave; stato generato un nuovo Codes con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Codes identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Codes con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Codes {{ id }}?"
+      },
+      "detail": {
+        "title": "Codes"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "hermesvueApp": {
+    "regions": {
+      "home": {
+        "title": "Regions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Regions",
+        "createOrEditLabel": "Genera o modifica un Regions",
+        "search": "Cerca Regions",
+        "notFound": "No Regions found"
+      },
+      "created": "&Egrave; stato generato un nuovo Regions con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Regions identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Regions con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Regions {{ id }}?"
+      },
+      "detail": {
+        "title": "Regions"
+      },
+      "id": "ID",
+      "name": "Name",
+      "country": "Country"
+    }
+  }
+}

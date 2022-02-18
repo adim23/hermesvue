@@ -1,0 +1,25 @@
+{
+  "hermesvueApp": {
+    "contactTypes": {
+      "home": {
+        "title": "ContactTypes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Contact Types",
+        "createOrEditLabel": "Genera o modifica un Contact Types",
+        "search": "Cerca Contact Types",
+        "notFound": "No Contact Types found"
+      },
+      "created": "&Egrave; stato generato un nuovo Contact Types con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Contact Types identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Contact Types con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Contact Types {{ id }}?"
+      },
+      "detail": {
+        "title": "Contact Types"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}
