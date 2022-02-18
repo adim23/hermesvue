@@ -1,0 +1,26 @@
+{
+  "hermesvueApp": {
+    "citizensRelations": {
+      "home": {
+        "title": "CitizensRelations",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Citizens Relations",
+        "createOrEditLabel": "Genera o modifica un Citizens Relations",
+        "search": "Cerca Citizens Relations",
+        "notFound": "No Citizens Relations found"
+      },
+      "created": "&Egrave; stato generato un nuovo Citizens Relations con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Citizens Relations identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Citizens Relations con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Citizens Relations {{ id }}?"
+      },
+      "detail": {
+        "title": "Citizens Relations"
+      },
+      "id": "ID",
+      "name": "Name",
+      "citizen": "Citizen"
+    }
+  }
+}

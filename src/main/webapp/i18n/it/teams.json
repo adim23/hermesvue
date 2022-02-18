@@ -1,0 +1,25 @@
+{
+  "hermesvueApp": {
+    "teams": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Teams",
+        "createOrEditLabel": "Genera o modifica un Teams",
+        "search": "Cerca Teams",
+        "notFound": "No Teams found"
+      },
+      "created": "&Egrave; stato generato un nuovo Teams con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Teams identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Teams con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Teams {{ id }}?"
+      },
+      "detail": {
+        "title": "Teams"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

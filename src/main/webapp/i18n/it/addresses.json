@@ -1,0 +1,41 @@
+{
+  "hermesvueApp": {
+    "addresses": {
+      "home": {
+        "title": "Addresses",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Addresses",
+        "createOrEditLabel": "Genera o modifica un Addresses",
+        "search": "Cerca Addresses",
+        "notFound": "No Addresses found"
+      },
+      "created": "&Egrave; stato generato un nuovo Addresses con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Addresses identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Addresses con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Addresses {{ id }}?"
+      },
+      "detail": {
+        "title": "Addresses"
+      },
+      "id": "ID",
+      "address": "Address",
+      "addressNo": "Address No",
+      "zipCode": "Zip Code",
+      "prosfLetter": "Prosf Letter",
+      "nameLetter": "Name Letter",
+      "letterClose": "Letter Close",
+      "firstLabel": "First Label",
+      "secondLabel": "Second Label",
+      "thirdLabel": "Third Label",
+      "fourthLabel": "Fourth Label",
+      "fifthLabel": "Fifth Label",
+      "favourite": "Favourite",
+      "country": "Country",
+      "kind": "Kind",
+      "region": "Region",
+      "company": "Company",
+      "citizen": "Citizen"
+    }
+  }
+}

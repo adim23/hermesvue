@@ -1,0 +1,25 @@
+{
+  "hermesvueApp": {
+    "phoneTypes": {
+      "home": {
+        "title": "PhoneTypes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Phone Types",
+        "createOrEditLabel": "Genera o modifica un Phone Types",
+        "search": "Cerca Phone Types",
+        "notFound": "No Phone Types found"
+      },
+      "created": "&Egrave; stato generato un nuovo Phone Types con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Phone Types identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Phone Types con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Phone Types {{ id }}?"
+      },
+      "detail": {
+        "title": "Phone Types"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

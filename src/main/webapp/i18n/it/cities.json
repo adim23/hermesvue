@@ -1,0 +1,39 @@
+{
+  "hermesvueApp": {
+    "cities": {
+      "home": {
+        "title": "Cities",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Cities",
+        "createOrEditLabel": "Genera o modifica un Cities",
+        "search": "Cerca Cities",
+        "notFound": "No Cities found"
+      },
+      "created": "&Egrave; stato generato un nuovo Cities con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Cities identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Cities con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Cities {{ id }}?"
+      },
+      "detail": {
+        "title": "Cities"
+      },
+      "id": "ID",
+      "name": "Name",
+      "president": "President",
+      "presidentsPhone": "Presidents Phone",
+      "secretary": "Secretary",
+      "secretarysPhone": "Secretarys Phone",
+      "police": "Police",
+      "policesPhone": "Polices Phone",
+      "doctor": "Doctor",
+      "doctorsPhone": "Doctors Phone",
+      "teacher": "Teacher",
+      "teachersPhone": "Teachers Phone",
+      "priest": "Priest",
+      "priestsPhone": "Priests Phone",
+      "country": "Country",
+      "region": "Region"
+    }
+  }
+}
